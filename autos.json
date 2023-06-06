@@ -1,0 +1,302 @@
+[
+    {
+      "CodigoAuto": 1,
+      "Nombre": "Toyota Yaris",
+      "Transmision": "Automático",
+      "Imagen": "assets/img/Original/Toyota_yaris.jpeg",
+      "Marca": "Toyota",
+      "Motor": "Gasolina",
+      "Modelo": "2022",
+      "Costo": "$20,000"
+    },
+    {
+      "CodigoAuto": 2,
+      "Nombre": "Toyota Corolla",
+      "Transmision": "Mecánico",
+      "Imagen": "assets/img/Original/toyota_corolla.jpg",
+      "Marca": "Toyota",
+      "Motor": "Gasolina",
+      "Modelo": "2023",
+      "Costo": "$25,000"
+    },
+    {
+      "CodigoAuto": 3,
+      "Nombre": "Honda Civic",
+      "Transmision": "Mecánico",
+      "Imagen": "assets/img/Original/honda_civic.jpg",
+      "Marca": "Honda",
+      "Motor": "Gasolina",
+      "Modelo": "2022",
+      "Costo": "$22,500"
+    },
+    {
+      "CodigoAuto": 4,
+      "Nombre": "Honda Fit",
+      "Transmision": "Automático",
+      "Imagen": "assets/img/Original/honda_fit.jpg",
+      "Marca": "Honda",
+      "Motor": "Gasolina",
+      "Modelo": "2023",
+      "Costo": "$18,500"
+    },
+    {
+      "CodigoAuto": 5,
+      "Nombre": "Nissan Versa",
+      "Transmision": "Automático",
+      "Imagen": "assets/img/Original/nissan_versa.jpg",
+      "Marca": "Nissan",
+      "Motor": "Gasolina",
+      "Modelo": "2022",
+      "Costo": "$17,000"
+    },
+    {
+      "CodigoAuto": 6,
+      "Nombre": "Chevrolet Sonic",
+      "Transmision": "Automático",
+      "Imagen": "assets/img/Original/chevrolet_sonic.jpg",
+      "Marca": "Chevrolet",
+      "Motor": "Gasolina",
+      "Modelo": "2023",
+      "Costo": "$19,000"
+    },
+    {
+      "CodigoAuto": 7,
+      "Nombre": "Ford Focus",
+      "Transmision": "Mecánico",
+      "Imagen": "assets/img/Original/ford_focus.jpeg",
+      "Marca": "Ford",
+      "Motor": "Gasolina",
+      "Modelo": "2022",
+      "Costo": "$21,000"
+    },
+    {
+      "CodigoAuto": 8,
+      "Nombre": "Ford Fiesta",
+      "Transmision": "Automático",
+      "Imagen": "assets/img/Original/ford_fiesta.jpeg",
+      "Marca": "Ford",
+      "Motor": "Gasolina",
+      "Modelo": "2023",
+      "Costo": "$16,500"
+    },
+    {
+      "CodigoAuto": 9,
+      "Nombre": "Hyundai Accent",
+      "Transmision": "Automático",
+      "Imagen": "assets/img/Original/hyundai_accent.jpg",
+      "Marca": "Hyundai",
+      "Motor": "Gasolina",
+      "Modelo": "2022",
+      "Costo": "$18,000"
+    },
+    {
+      "CodigoAuto": 10,
+      "Nombre": "Volkswagen Golf",
+      "Transmision": "Mecánico",
+      "Imagen": "assets/img/Original/Volkswagen_golf.jpg",
+      "Marca": "Volkswagen",
+      "Motor": "Gasolina",
+      "Modelo": "2023",
+      "Costo": "$23,500"
+    },
+    {
+      "CodigoAuto": 11,
+      "Nombre": "Chevrolet Cruze",
+      "Transmision": "Mecánico",
+      "Imagen": "assets/img/Original/chevrolet_cruze.jpg",
+      "Marca": "Chevrolet",
+      "Motor": "Gasolina",
+      "Modelo": "2022",
+      "Costo": "$20,500"
+    },
+    {
+      "CodigoAuto": 12,
+      "Nombre": "Hyundai Elantra",
+      "Transmision": "Mecánico",
+      "Imagen": "assets/img/Original/hyundai_elantra.jpg",
+      "Marca": "Hyundai",
+      "Motor": "Gasolina",
+      "Modelo": "2023",
+      "Costo": "$22,000"
+    },
+    {
+      "CodigoAuto": 13,
+      "Nombre": "Kia Rio",
+      "Transmision": "Automático",
+      "Imagen": "assets/img/Original/kia_rio.jpg",
+      "Marca": "Kia",
+      "Motor": "Gasolina",
+      "Modelo": "2022",
+      "Costo": "$19,500"
+    },
+    {
+      "CodigoAuto": 14,
+      "Nombre": "Mazda3",
+      "Transmision": "Automático",
+      "Imagen": "assets/img/Original/mazda_3_M.jpg",
+      "Marca": "Mazda",
+      "Motor": "Gasolina",
+      "Modelo": "2023",
+      "Costo": "$24,000"
+    },
+    {
+      "CodigoAuto": 15,
+      "Nombre": "Mazda3",
+      "Transmision": "Mecánico",
+      "Imagen": "assets/img/Original/mazda_3_A.jpg",
+      "Marca": "Mazda",
+      "Motor": "Gasolina",
+      "Modelo": "2022",
+      "Costo": "$23,500"
+    },
+    {
+      "CodigoAuto": 16,
+      "Nombre": "Nissan Sentra",
+      "Transmision": "Mecánico",
+      "Imagen": "assets/img/Original/nissan_sentra.jpg",
+      "Marca": "Nissan",
+      "Motor": "Gasolina",
+      "Modelo": "2023",
+      "Costo": "$21,500"
+    },
+    {
+      "CodigoAuto": 17,
+      "Nombre": "Volkswagen Polo",
+      "Transmision": "Automático",
+      "Imagen": "assets/img/Original/volkswage_polo.jpg",
+      "Marca": "Volkswagen",
+      "Motor": "Gasolina",
+      "Modelo": "2022",
+      "Costo": "$18,500"
+    },
+    {
+      "CodigoAuto": 18,
+      "Nombre": "Renault Sandero",
+      "Transmision": "Automático",
+      "Imagen": "assets/img/Original/renault_sandero.jpg",
+      "Marca": "Renault",
+      "Motor": "Gasolina",
+      "Modelo": "2023",
+      "Costo": "$16,000"
+    },
+    {
+      "CodigoAuto": 19,
+      "Nombre": "Peugeot 208",
+      "Transmision": "Automático",
+      "Imagen": "assets/img/Original/peugeot_208.jpg",
+      "Marca": "Peugeot",
+      "Motor": "Gasolina",
+      "Modelo": "2022",
+      "Costo": "$19,500"
+    },
+    {
+      "CodigoAuto": 20,
+      "Nombre": "Fiat Argo",
+      "Transmision": "Automático",
+      "Imagen": "assets/img/Original/fiat_argo.jpg",
+      "Marca": "Fiat",
+      "Motor": "Gasolina",
+      "Modelo": "2023",
+      "Costo": "$15,500"
+    },
+    {
+      "CodigoAuto": 21,
+      "Nombre": "Kia Forte",
+      "Transmision": "Mecánico",
+      "Imagen": "assets/img/Original/Kia_Forte.jpg",
+      "Marca": "Kia",
+      "Motor": "Gasolina",
+      "Modelo": "2022",
+      "Costo": "$21,500"
+    },
+    {
+      "CodigoAuto": 22,
+      "Nombre": "Subaru Impreza",
+      "Transmision": "Mecánico",
+      "Imagen": "assets/img/Original/Subaru_Impreza.jpg",
+      "Marca": "Subaru",
+      "Motor": "Gasolina",
+      "Modelo": "2023",
+      "Costo": "$24,500"
+    },
+    {
+      "CodigoAuto": 23,
+      "Nombre": "Suzuki Swift",
+      "Transmision": "Automático",
+      "Imagen": "assets/img/Original/Suzuki_Swift.jpg",
+      "Marca": "Suzuki",
+      "Motor": "Gasolina",
+      "Modelo": "2022",
+      "Costo": "$17,500"
+    },
+    {
+      "CodigoAuto": 24,
+      "Nombre": "Mitsubishi Mirage",
+      "Transmision": "Automático",
+      "Imagen": "assets/img/Original/Mitsubishi_Mirage.jpg",
+      "Marca": "Mitsubishi",
+      "Motor": "Gasolina",
+      "Modelo": "2023",
+      "Costo": "$16,500"
+    },
+    {
+      "CodigoAuto": 25,
+      "Nombre": "Skoda Fabia",
+      "Transmision": "Automático",
+      "Imagen": "assets/img/Original/Skoda_Fabia.jpg",
+      "Marca": "Skoda",
+      "Motor": "Gasolina",
+      "Modelo": "2022",
+      "Costo": "$18,500"
+    },
+    {
+      "CodigoAuto": 26,
+      "Nombre": "Seat Ibiza",
+      "Transmision": "Automático",
+      "Imagen": "assets/img/Original/Seat_Ibiza.jpg",
+      "Marca": "Seat",
+      "Motor": "Gasolina",
+      "Modelo": "2023",
+      "Costo": "$19,000"
+    },
+    {
+      "CodigoAuto": 27,
+      "Nombre": "Dacia Logan",
+      "Transmision": "Automático",
+      "Imagen": "assets/img/Original/Dacia_Logan.jpg",
+      "Marca": "Dacia",
+      "Motor": "Gasolina",
+      "Modelo": "2022",
+      "Costo": "$15,000"
+    },
+    {
+      "CodigoAuto": 28,
+      "Nombre": "Opel Corsa",
+      "Transmision": "Automático",
+      "Imagen": "assets/img/Original/Opel_Corsa.jpg",
+      "Marca": "Opel",
+      "Motor": "Gasolina",
+      "Modelo": "2023",
+      "Costo": "$17,500"
+    },
+    {
+      "CodigoAuto": 29,
+      "Nombre": "Citroen C3",
+      "Transmision": "Automático",
+      "Imagen": "assets/img/Original/Citroen_C3.png",
+      "Marca": "Citroen",
+      "Motor": "Gasolina",
+      "Modelo": "2022",
+      "Costo": "$20,000"
+    },
+    {
+      "CodigoAuto": 30,
+      "Nombre": "Hyundai i20",
+      "Transmision": "Automático",
+      "Imagen": "assets/img/Original/Hyundai_i20.jpg",
+      "Marca": "Hyundai",
+      "Motor": "Gasolina",
+      "Modelo": "2023",
+      "Costo": "$18,500"
+    }
+  ]
