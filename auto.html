@@ -169,7 +169,7 @@
       titleCell.textContent = 'Cotización de auto UMG';
       titleRow.appendChild(titleCell);
       table.appendChild(titleRow);
-
+      var Nombrepdf = "Corizacion_"
       // Iterar sobre las etiquetas y agregar su contenido a la tabla
       etiquetas.forEach(function (etiqueta) {
         var contenido = etiqueta.textContent;
@@ -178,7 +178,6 @@
         var row = document.createElement('tr');
         var labelCell = document.createElement('td');
         var valueCell = document.createElement('td');
-
         // Agregar el contenido a las celdas
         labelCell.textContent = etiqueta.id.replace('@', '');
         valueCell.textContent = contenido;
@@ -189,6 +188,10 @@
 
         // Agregar la fila a la tabla
         table.appendChild(row);
+        if (etiqueta.id.replace('@', '') == 'Nombre'){
+          Nombrepdf = Nombrepdf + contenido + '.pdf'
+        }
+
       });
 
       // Crear un nuevo objeto html2pdf
@@ -213,7 +216,7 @@
       // Convertir el div a PDF utilizando html2pdf
       html2pdf()
         .from(element)
-        .save('cotizacion.pdf');
+        .save(Nombrepdf);
     });
   </script>
 
